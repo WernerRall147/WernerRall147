@@ -9,3 +9,4 @@
 - 👻 Fun fact: Living on a farm in South Africa, I learn't how to use computers without the Internet...
 - 💬 Ask me about Azure, PowerShell, DevOps, C#
 
+![Werner's GitHub stats](https://github-readme-stats.vercel.app/api?username=wernerrall147&show_icons=true&count_private=true)
