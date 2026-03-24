@@ -2,7 +2,7 @@
 
 - 🔭 I’m Werner Rall
 - ⚛️ Badges https://www.credly.com/users/werner-rall/badges
-- 🌱 I blog every now and then https://aka.ms/wernerrall & https://aka.ms/wernerrallai
+- 🌱 I blog every now and then https://aka.ms/wernerrall
 - 🌐 I have a website for Azure AI & Quantum Updates https://aka.ms/theazureupdate
 - 🤔 I’m on LinkedIn https://www.linkedin.com/in/werner-rall/
 - 🤔 I’m on Twitter https://twitter.com/werneragent47
