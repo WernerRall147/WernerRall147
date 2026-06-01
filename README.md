@@ -13,4 +13,21 @@
 - 👻 Fun fact: Living on a farm in South Africa, I learn't how to use computers without the Internet...
 - 💬 Ask me about Azure, DevOps, Artificial Intelligence, Quantum Computing
 
-![Werner's GitHub stats](https://github-readme-stats.vercel.app/api?username=wernerrall147&show_icons=true&count_private=true)
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wernerrall147&show_icons=true&count_private=true&theme=radical" alt="Werner's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wernerrall147&layout=compact&count_private=true&theme=radical" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=wernerrall147&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wernerrall147&theme=radical" alt="Activity Graph" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wernerrall147&theme=radical&row=1&column=7" alt="Trophies" />
+</p>
